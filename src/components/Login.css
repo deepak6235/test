@@ -1,0 +1,24 @@
+.page{
+    
+       
+        flex-direction: column;
+        margin: auto;
+       margin-top: 80px;
+        width: 600px;
+        height: 600px;
+        background: #ffffff;
+        margin-bottom: 150px;
+    
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+    width: 100%;
+    
+}
+.textcolor{
+    -webkit-text-fill-color: red;
+    font-style: bold;
+}

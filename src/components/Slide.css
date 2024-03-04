@@ -1,0 +1,28 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+  }
+  .each-slide-effects >div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+
+  }
+  
+  .each-slide-effectss div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+   
+  }
+  
